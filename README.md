@@ -1,5 +1,6 @@
 # StatusView
 一个简单的状态展示，如加载中、网络错误等等
+<<<<<<< HEAD
 
 
 StatusView statusView = findViewById(R.id.status_view);
@@ -34,3 +35,5 @@ xml
 		<attr name="loading_view" format="reference" />
         <attr name="err_view" format="reference" />
         <attr name="empty_view" format="reference" />
+=======
+>>>>>>> a070ec130ea46bc6aea95dbe4787e73f62cf323a
