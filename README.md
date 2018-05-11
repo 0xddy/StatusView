@@ -35,5 +35,4 @@ xml
 		<attr name="loading_view" format="reference" />
         <attr name="err_view" format="reference" />
         <attr name="empty_view" format="reference" />
-=======
->>>>>>> a070ec130ea46bc6aea95dbe4787e73f62cf323a
+ 
